@@ -1,0 +1,8 @@
+{
+  "name": "Copy of WEBSITE Aura SÀI GÒN Studio - Architectural Excellence (PRO)",
+  "description": "A high-end architectural firm landing page featuring interactive project galleries, real-time AI voice consulting, and cinematic video generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
